@@ -1,7 +1,7 @@
 ## Hi I PRIT GADHIYA 👋
 
 
-[![An image of @pritg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritg)](https://holopin.io/@pritg)
+
 
 
 Here are some ideas to get you started:
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+   <h1 color="white" align="center">Badges</h1>
+[![An image of @pritg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritg)](https://holopin.io/@pritg)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true&theme=dark"
