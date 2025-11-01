@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi I PRIT GADHIYA 👋
 
-<!--
-**PRIT-G/PRIT-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![An image of @pritg's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritg)](https://holopin.io/@pritg)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true" />
+</picture>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRIT-G&layout=compact)
+
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=PRIT-G&limit=5)
