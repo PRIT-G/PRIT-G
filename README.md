@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"></code>
 </h1>
 
 
@@ -50,3 +52,5 @@ Here are some ideas to get you started:
 
 
 ![PROFILE-VIEWS](https://ghtb-counter.vercel.app/api/counter?username=PRIT-G&label=Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=flat)
+
+<code><img height="30000" src="https://github-profile-trophy.vercel.app/?username=PRIT-G&margin-w=15"></code>
