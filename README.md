@@ -47,3 +47,6 @@ Here are some ideas to get you started:
 
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=PRIT-G&limit=5)
+
+
+![PROFILE-VIEWS](https://ghtb-counter.vercel.app/api/counter?username=PRIT-G&label=Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=flat)
