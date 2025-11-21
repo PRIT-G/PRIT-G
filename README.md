@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 ![PROFILE-VIEWS](https://ghtb-counter.vercel.app/api/counter?username=PRIT-G&label=Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=flat)
 
-<code><img height="30000" src="https://github-profile-trophy.vercel.app/?username=PRIT-G&margin-w=15"></code>
+
