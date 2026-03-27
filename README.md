@@ -41,8 +41,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PRIT-G&show_icons=true" />
-</picture>
+
 
 
 
